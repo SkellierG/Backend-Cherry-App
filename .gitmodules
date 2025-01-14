@@ -1,0 +1,6 @@
+[submodule "supabase-backend"]
+	path = supabase-backend
+	url = https://github.com/SkellierG/supabase-bak.git
+[submodule "dbreaver-db"]
+	path = dbreaver-db
+	url = https://github.com/SkellierG/cherry-app-postgreSQL-db.git
